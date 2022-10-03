@@ -1,19 +1,17 @@
 /* ------MAIN PAGE------ */
-/*цвет заголовков - #212121*/
-/*основной цвет -  #757575*/
-/*белый #FFFFFF*/
-/* акцент голубой 
-#2196F3*/
-/* цвет фона #F5F5F5 */
-/*вторичный цвет фона #F5F4FA */
-/* цвет фона хедера 
-#FFFFFF */
+/*title color - #212121*/
+/*main color -  #757575*/
+/*white #FFFFFF*/
+/* accent blue #2196F3*/
+/* background color #F5F5F5 */
+/*secondary background #F5F4FA */
+/* title background color #FFFFFF */
 /* ------PORTFOLIO------ */
-/*  фон кнопки #F5F4FA, цвет текста на кнопке  #212121;*/
+/*  button background color #F5F4FA, button text color  #212121;*/
 /* ------FONTS------ */
 /* Roboto, font-weight: 700; font-weight: 500, font-weight: 400
 Raleway: font-weight: 700 */
-/* цвет иконок #AFB1B8; */
+/* icons color #AFB1B8; */
 *,
 *::before,
 *::after {
